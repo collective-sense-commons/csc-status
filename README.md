@@ -1,4 +1,11 @@
-# Collective Sense Commons Status Page
+# Collective Sense Commons Services
+
+## CSC Main Site
+
+| URL                     | https://collectivesensecommons.net/ |
+| ----------------------- | ----------------------------------- |
+| Current Status          | Normal                              |
+| Next maintenance window | No window scheduled                 |
 
 ## CSC Mattermost Status
 
@@ -7,9 +14,7 @@
 | Current Status          | Normal                                   |
 | Next maintenance window | 2021-05-30                               |
 
-
-
-# 2021-05-30 Maintenance Window Times
+### 2021-05-30 Maintenance Window Times
 
 Mattermost service may be up or down for planned maintenance during the following two hour window.  Service may go down and come back up more than once during the window.
 
