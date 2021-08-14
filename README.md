@@ -6,7 +6,7 @@ Also see: [Collective Sense Commons home page](https://collectivesensecommons.or
 
 | URL                     | https://chat.collectivesensecommons.net/ |
 | ----------------------- | ---------------------------------------- |
-| Current Status          | System maintenance between 5:30a-6:00a PDT                                   |
+| Current Status          | Normal                                   |
 | Next maintenance window | No window scheduled                      |
 
 ### Known Issues
