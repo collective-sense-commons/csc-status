@@ -6,8 +6,8 @@ Also see: [Collective Sense Commons home page](https://collectivesensecommons.or
 
 | URL                     | https://chat.collectivesensecommons.net/ |
 | ----------------------- | ---------------------------------------- |
-| Current Status          | Important fixes needed right away |
-| Next maintenance window | Expect the chat server to be offline for a number of hours on and off through 2021-08-31. Check back for updates. Apologies for the late notice! |
+| Current Status          | Normal                                   |
+| Next maintenance window | No window scheduled                      |
 
 ### Known Issues
 
@@ -25,5 +25,3 @@ If you are using one of the mobile clients, sometimes a "Server upgrade required
 | URL                     | https://collectivesensecommons.net/ |
 | ----------------------- | ----------------------------------- |
 | Current Status          | Normal                              |
-| Next maintenance window | No window scheduled                 |
-
