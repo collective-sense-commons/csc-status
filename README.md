@@ -22,6 +22,6 @@ If you are using one of the mobile clients, sometimes a "Server upgrade required
 
 ## CSC Main Site
 
-| URL                     | https://collectivesensecommons.net/ |
+| URL                     | https://collectivesensecommons.org/ |
 | ----------------------- | ----------------------------------- |
 | Current Status          | Normal                              |
