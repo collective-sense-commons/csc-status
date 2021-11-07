@@ -6,7 +6,7 @@ Also see: [Collective Sense Commons home page](https://collectivesensecommons.or
 
 | URL                     | https://chat.collectivesensecommons.net/ |
 | ----------------------- | ---------------------------------------- |
-| Current Status          | Normal                                   |
+| Current Status          | Short downtime for maintenance                                   |
 | Next maintenance window | No window scheduled                      |
 
 ### Known Issues
