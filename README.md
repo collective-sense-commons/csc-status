@@ -6,8 +6,9 @@ Also see: [Collective Sense Commons home page](https://collectivesensecommons.or
 
 | URL                     | https://chat.collectivesensecommons.net/ |
 | ----------------------- | ---------------------------------------- |
-| Current Status          | Offline for unscheduled maintenance                                   |
+| Current Status          | Normal                                   |
 | Next maintenance window | No window scheduled                      |
+| Last incident           | Unscheduled downtime 2022-01-28 1410-1440 UTC |
 
 ### Known Issues
 
