@@ -8,7 +8,7 @@ Also see: [Collective Sense Commons home page](https://collectivesensecommons.or
 | ----------------------- | ---------------------------------------- |
 | Current Status          | Normal                                   |
 | Next maintenance window | No window scheduled                      |
-| Last incident           | Unscheduled downtime 2022-01-28 1410-1440 UTC |
+| Last incident           | Unscheduled downtime 2022-01-28 1610-1640 UTC |
 
 ### Known Issues
 
