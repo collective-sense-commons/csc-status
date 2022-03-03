@@ -4,11 +4,11 @@ Also see: [Collective Sense Commons home page](https://collectivesensecommons.or
 
 ## CSC Mattermost
 
-| URL                     | https://chat.collectivesensecommons.net/ |
-| ----------------------- | ---------------------------------------- |
-| Current Status          | Normal                                   |
-| Next maintenance window | No window scheduled                      |
-| Last incident           | Unscheduled downtime 2022-01-28 1610-1640 UTC |
+| URL                     | https://chat.collectivesensecommons.net/                     |
+| ----------------------- | ------------------------------------------------------------ |
+| Current Status          | Normal                                                       |
+| Next maintenance window | Scheduled maintenance, weekend of 5-6 March; expect an hour or two of downtime, probably Saturday morning PST. Watch this page for updates.<br />Look for an email with more details from <support@collectivesensecommons.org> on 4 March, or send an email to that address with questions/problems. |
+| Last incident           | Unscheduled downtime 2022-01-28 1610-1640 UTC                |
 
 ### Known Issues
 
