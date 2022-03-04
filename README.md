@@ -7,7 +7,7 @@ Also see: [Collective Sense Commons home page](https://collectivesensecommons.or
 | URL                     | <https://chat.collectivesensecommons.org/>                   |
 | ----------------------- | ------------------------------------------------------------ |
 | Current Status          | Normal                                                       |
-| Next maintenance window | Scheduled maintenance, weekend of 5-6 March; expect an hour or two of downtime, probably Saturday morning PST. Watch this page for updates.<br />Look for an email with more details from <support@collectivesensecommons.org> on 4 March, or send an email to that address with questions/problems. |
+| Next maintenance window | Scheduled maintenance, weekend of 5-6 March. See [[CSC Agora Mattermost Upgrade]] for more details. |
 
 ### Known Issues
 
