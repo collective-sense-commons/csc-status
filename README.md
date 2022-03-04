@@ -1,13 +1,16 @@
 # Collective Sense Commons Services
 
-Also see: [Collective Sense Commons home page](https://collectivesensecommons.org/)
+Also see:
+
+- [Collective Sense Commons home page](https://collectivesensecommons.org/) for more about CSC.
+- [[CSC Agora Mattermost Upgrade]] for more about this weekend's Mattermost upgrade.
 
 ## CSC Mattermost
 
 | URL                     | <https://chat.collectivesensecommons.org/>                   |
 | ----------------------- | ------------------------------------------------------------ |
 | Current Status          | Normal                                                       |
-| Next maintenance window | Scheduled maintenance, weekend of 5-6 March. See [[CSC Agora Mattermost Upgrade]] for more details. |
+| Next maintenance window | Scheduled maintenance, weekend of 5-6 March. See [[CSC Agora Mattermost Upgrade]] page for more details. |
 
 ### Known Issues
 
