@@ -5,7 +5,7 @@
 - After the service is back, Mattermost will have forgotten everybody's password. To fix that, you will need to go to <https://chat.collectivesensecommons.org/> and use the “I forgot my password” link to reset your password to sign into the new version. It’s okay to use the same password as the previous one if you want.
 - See <https://status.collectivesensecommons.org/> (and this page) at any time for updated information.
 - A peer-maintained upgrade notes document is here, feel free to read / comment / edit to help everybody:
-	- https://docs.google.com/document/d/17-bjvkVayL06TG8oRo1a5Jtkw4OLw2nNFkECqMuFoaU/edit
+	- <https://docs.google.com/document/d/17-bjvkVayL06TG8oRo1a5Jtkw4OLw2nNFkECqMuFoaU/edit>
 - If you have problems/questions not addressed on this page or the upgrade notes doc above, send email to <support@collectivesensecommons.org>.
 
 ## Other Things To Note
