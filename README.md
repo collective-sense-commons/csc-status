@@ -9,12 +9,12 @@ Also see:
 
 | URL                     | <https://chat.collectivesensecommons.org/>                   |
 | ----------------------- | ------------------------------------------------------------ |
-| Current Status          | Normal                                                       |
-| Next maintenance window | Scheduled maintenance, weekend of 5-6 March. See [[CSC Agora Mattermost Upgrade]] page for more details. |
+| Current Status          | Up with recent software upgrade, see [[CSC Agora Mattermost Upgrade]] for more details. |                                                       |
+| Next maintenance window | No window scheduled |
 
 ### Known Issues
 
-If you are using one of the mobile clients, sometimes a "Server upgrade required" popup will be displayed.  We have a goal to fix this. For now, just click "DISMISS" to close the popup, and continue.
+You will need to reset your password after the recent upgrade.
 
 ## MeetingWords
 

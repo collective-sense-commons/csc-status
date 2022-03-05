@@ -1,12 +1,12 @@
 # CSC Agora Mattermost Upgrade
 
-## Summary: Upgrade 5-6 March 2022
-- The CSC Agora Mattermost service will be down for one to several hours this weekend, 5-6 March 2022, for scheduled maintenance (a software upgrade).
-	- Starting at 7:30am PST Saturday morning.
+## Summary: Upgrade 5 March 2022
+- The CSC Agora Mattermost service was upgraded 7:30am-11:30am PST Saturday morning.
 - After the service is back, Mattermost will have forgotten everybody's password. To fix that, you will need to go to <https://chat.collectivesensecommons.org/> and use the “I forgot my password” link to reset your password to sign into the new version. It’s okay to use the same password as the previous one if you want.
-	- To avoid unnecessarily changing your password, you can wait until you get a message that you aren't signed in or that your email/password isn't valid.
 - See <https://status.collectivesensecommons.org/> (and this page) at any time for updated information.
-- If you have problems/questions not addressed on the this page, send email to <support@collectivesensecommons.org>.
+- A peer-maintained upgrade notes document is here, feel free to read / comment / edit to help everybody:
+	- https://docs.google.com/document/d/17-bjvkVayL06TG8oRo1a5Jtkw4OLw2nNFkECqMuFoaU/edit
+- If you have problems/questions not addressed on this page or the upgrade notes doc above, send email to <support@collectivesensecommons.org>.
 
 ## Other Things To Note
 
