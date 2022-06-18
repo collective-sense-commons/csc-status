@@ -9,12 +9,8 @@ Also see:
 
 | URL                     | <https://chat.collectivesensecommons.org/>                   |
 | ----------------------- | ------------------------------------------------------------ |
-| Current Status          | Up with recent software upgrade, see [[CSC Agora Mattermost Upgrade]] for more details. |                                                       |
-| Next maintenance window | No window scheduled |
-
-### Known Issues
-
-You will need to reset your password after the recent upgrade.
+| Current Status          | Normal |
+| Next maintenance window | [19 June 2022 1:00pm](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CSC+Mattermost+Scheduled+Maintenance&iso=20220619T13&p1=1440&ah=1&am=30) (click to see in your timezone) for 90 minutes |
 
 ## MeetingWords
 
