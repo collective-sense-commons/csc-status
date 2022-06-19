@@ -9,8 +9,8 @@ Also see:
 
 | URL                     | <https://chat.collectivesensecommons.org/>                   |
 | ----------------------- | ------------------------------------------------------------ |
-| Current Status          | Maintenance Window - system may be up or down |
-| Next maintenance window | [19 June 2022 1:00pm UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CSC+Mattermost+Scheduled+Maintenance&iso=20220619T13&p1=1440&ah=1&am=30) (click to see in your timezone) for 90 minutes |
+| Current Status          | Normal - server upgraded to [v7.0](https://docs.mattermost.com/install/self-managed-changelog.html#release-v7-0-major-release) |
+| Next maintenance window | No window scheduled |
 
 ## MeetingWords
 
