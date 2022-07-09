@@ -11,6 +11,7 @@ Also see:
 | ----------------------- | ------------------------------------------------------------ |
 | Current Status          | Normal - server upgraded to [v7.0](https://docs.mattermost.com/install/self-managed-changelog.html#release-v7-0-major-release) |
 | Next maintenance window | No window scheduled |
+| Recent incident           | Server unresponsive for one to several hours. Service restored 2022-07-09 around 15:30 UTC |
 
 ## MeetingWords
 
