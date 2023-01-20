@@ -3,14 +3,15 @@
 Also see:
 
 - [Collective Sense Commons home page](https://collectivesensecommons.org/) for more about CSC.
-- [[CSC Agora Mattermost Upgrade]] for more about this weekend's Mattermost upgrade.
 
 ## CSC Mattermost
 
 | URL                     | <https://chat.collectivesensecommons.org/>                   |
 | ----------------------- | ------------------------------------------------------------ |
-| Current Status          | Normal - server upgraded to [v7.0](https://docs.mattermost.com/install/self-managed-changelog.html#release-v7-0-major-release) |
+| Current Status          | Normal - server upgraded to [v7.7.0](https://docs.mattermost.com/install/self-managed-changelog.html#release-v7-7-feature-release) |
 | Next maintenance window | No window scheduled |
+| Recent incidents | Short downtime around 2023-01-20 19:00 UTC |
+
 
 ## MeetingWords
 
